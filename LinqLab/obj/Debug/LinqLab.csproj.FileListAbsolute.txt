@@ -14,3 +14,13 @@ R:/LinqLab/LinqLab/bin/Debug/ExpectedObjects.dll
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLab/obj/Debug/LinqLab.csproj.CopyComplete
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLab/obj/Debug/LinqLab.exe
 /Users/ezra/Develop/C#Projects/LinqExercise/LinqLab/LinqLab/obj/Debug/LinqLab.pdb
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\bin\Debug\LinqLab.exe.config
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\bin\Debug\LinqLab.exe
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\bin\Debug\LinqLab.pdb
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\bin\Debug\ExpectedObjects.dll
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\obj\Debug\LinqLab.csproj.AssemblyReference.cache
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\obj\Debug\LinqLab.csproj.SuggestedBindingRedirects.cache
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\obj\Debug\LinqLab.csproj.CoreCompileInputs.cache
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\obj\Debug\LinqLab.csproj.CopyComplete
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\obj\Debug\LinqLab.exe
+D:\Kelutree\SokhomSovichea-Linqlab\LinqLab\obj\Debug\LinqLab.pdb

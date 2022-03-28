@@ -16,14 +16,12 @@ namespace LinqLab
         }
         public IList<IGrouping<string, Sample>> GroupByUserName()
         {
-            var result = new List<IGrouping<string, Sample>>();
-            return result;
+            return new List<IGrouping<string, Sample>>(Source.GroupBy(x => x.UserName));
         }
 
         public IEnumerable<IGrouping<TempObj, Sample>> GroupByUserNameAndCreateTime()
         {
-            var result = new List<IGrouping<TempObj, Sample>>();
-            return result;
+            return new List<IGrouping<TempObj, Sample>>(Source.GroupBy(x => new TempObj { UserName = x.UserName, CreateTime = x.CreateTime }));
         }
     }
 }

@@ -50,6 +50,7 @@ namespace LinqLabTests
         }
 
         [TestMethod()]
+        [ExpectedException(typeof(InvalidOperationException))]
         public void Use_Single_to_search_UserName_equal_bill()
         {
             var expected =
